@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0A0E1A" />
+    <meta name="description" content="RFP Copilot — AI-Powered RFP Response Accelerator. Built as a portfolio project for Loopio's Lead PM role." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet" />
+    <title>RFP Copilot — AI-Powered Response Accelerator</title>
+    <style>
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+      html, body, #root { height: 100%; }
+      body { font-family: 'DM Sans', sans-serif; background: #0A0E1A; }
+      ::-webkit-scrollbar { width: 5px; height: 5px; }
+      ::-webkit-scrollbar-track { background: transparent; }
+      ::-webkit-scrollbar-thumb { background: rgba(148,163,184,0.3); border-radius: 10px; }
+      ::-webkit-scrollbar-thumb:hover { background: rgba(148,163,184,0.5); }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes fadeInUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+      .spin { animation: spin 1s linear infinite; }
+      .fade-in { animation: fadeInUp 0.3s ease both; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite; }
+    </style>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run RFP Copilot.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
