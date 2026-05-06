@@ -4,7 +4,7 @@
 > Built by a candidate with 7+ years of B2B SaaS PM experience.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-6366F1?style=flat-square&logo=vercel)](https://rfp-copilot.vercel.app)
-[![PRD](https://img.shields.io/badge/PRD-Download-10B981?style=flat-square)](./docs/RFP_Copilot_PRD.docx)
+[![PRD](https://img.shields.io/badge/PRD-Download-10B981?style=flat-square)](https://docs.google.com/document/d/1VTP23FeAoPejU9GJ_4OdKei8QQKeiud-iCMOg6QxDBo/edit?tab=t.0)
 [![Built with Claude](https://img.shields.io/badge/AI-Anthropic%20Claude-8B5CF6?style=flat-square)](https://anthropic.com)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev)
 
